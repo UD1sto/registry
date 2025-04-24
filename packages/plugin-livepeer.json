@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-livepeer",
+  "description": "Livepeer inference plugin for elizaOS",
+  "repository": {
+    "type": "git",
+    "url": "github:UD1sto/plugin-livepeer-inference"
+  },
+  "maintainers": [
+    {
+      "name": "UD1sto",
+      "github": "UD1sto"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0-beta.33",
+      "gitBranch": "1.0.0-beta.33",
+      "gitTag": "v1.0.0-beta.33",
+      "runtimeVersion": "1.0.0-beta.34",
+      "releaseDate": "2025-04-24T18:01:20.484Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": null,
+  "latestVersion": "1.0.0-beta.33",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
